@@ -4,7 +4,7 @@
 <b>Deliverables:</b> Completed apps are tested on a device, presented to peers, and uploaded to GitHub for teacher review and grade.   
 <br>
 <b>Example screenshots of our completed stopwatch app.</b><br><br>
-<b>Start Screen</b>&nbsp;&nbsp;:middlefinger:<br><br>
+<b>Start Screen</b>&nbsp;&nbsp;:middle finger:<br><br>
 ![Alt text](https://github.com/AngelC21/AngelStopwatch/blob/master/screenshots/Capture.JPG "Stopwatch Start Screen")
 <br><br>
 <b>Running App Screen</b>&nbsp;&nbsp;:snail:<br><br>
