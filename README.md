@@ -5,7 +5,7 @@
 <br>
 <b>Example screenshots of our completed stopwatch app.</b><br><br>
 <b>Start Screen</b>&nbsp;&nbsp;:chicken:<br><br>
-![Alt text](https://github.com/vpluma/stopwatch/blob/master/screenshots/startscreen.PNG "Stopwatch Start Screen")
+![Alt text](https://github.com/AngelC21/AngelStopwatch/blob/master/screenshots/Capture.JPG "Stopwatch Start Screen")
 <br><br>
 <b>Running App Screen</b>&nbsp;&nbsp;:snail:<br><br>
 ![Alt text](https://github.com/vpluma/stopwatch/blob/master/screenshots/runningscreen.PNG "Running App Screen")
