@@ -7,5 +7,5 @@
 <b>Start Screen</b>&nbsp;&nbsp;:watch:<br><br>
 ![Alt text](https://github.com/AngelC21/AngelStopwatch/blob/master/screenshots/Capture.JPG "Stopwatch Start Screen")
 <br><br>
-<b>Running App Screen</b>&nbsp;&nbsp;:watch:<br><br>
+<b>Running App Screen</b>&nbsp;&nbsp;:alarm_clock:<br><br>
 ![Alt text](https://github.com/AngelC21/AngelStopwatch/blob/master/screenshots/Capture2.JPG "Running App Screen")
